@@ -1,0 +1,105 @@
+$ history
+    1  git init
+    2  git clone /path/to/repository
+    3  git status
+    4  ls
+    5  pwd
+    6  git init
+    7  ls
+    8  git init
+    9  ls
+   10  pwd
+   11  git status
+   12  git add .
+   13  git status
+   14  git commit
+   15   git config --global user.email "you@example.com"
+   16  git config--global user.email "eikuncar@uc.cl"
+   17  git config --global user.email "eikuncar@uc.cl"
+   18  git config --global user.name "kike"
+   19  git commit
+   20  git init
+   21  git status
+   22  lw
+   23  ls
+   24  ls
+   25  pwd
+   26  cd Desktop/
+   27  git clone https://github.com
+   28  git clone https://github.com
+   29  git clone https://github.com/IIC2115/Syllabus.git
+   30  cd Syllabus/
+   31  ls
+   32  git add *
+   33  git status
+   34  git clone https://github.com/IIC2115/Syllabus.git
+   35  ls
+   36  git init
+   37  lw
+   38  ls
+   39  git status
+   40  git commit -m"primer commit"
+   41  git log
+   42  git status
+   43  git add .
+   44  git status
+   45  git diff
+   46  git diff hola2.py
+   47  git diff hola1.py
+   48  git diff hola1.py
+   49  git commit
+   50  git log
+   51  git branch
+   52  git checkout
+   53  git status
+   54  git add.
+   55  git add .
+   56  git checkout -b rama2
+   57  git status
+   58  git branch master
+   59  git branch -d rama2
+   60  git checkout -b master
+   61  git checkout rama2
+   62  git checkout master
+   63  git push origin master
+   64  git remote add origin <https://github.com/ekuncars/hola1.git>
+   65  git remote add origin https://github.com/ekuncars/hola1.git
+   66  git push -u origin master
+   67  git clone https://github.com/ekuncars/hola1.git
+   68  cd hola1
+   69  git status
+   70  git pull
+   71  cd Desktop/
+   72  git clone https://github.com/IIC2115/Syllabus.git
+   73  ls
+   74  pwd
+   75  git add .
+   76  cd Desktop/
+   77  git clone https://github.com/IIC2115/Syllabus.git
+   78  cd Desktop/
+   79  git clone https://github.com/IIC2115/Syllabus.git
+   80  cd Syllabus/
+   81  ls
+   82  git add *
+   83  git commit -m "creando L0 en el repositorio local"
+   84  cd Desktop/
+   85  git clone https://github.com/ekuncars/L0.git
+   86  git clone https://github.com/IIC2115/Syllabus.git
+   87  git clone https://github.com/IIC2115/Syllabus.git
+   88  ?cd Desktop/L0
+   89  ?cd Desktop/L0
+   90  ?cd Desktop/L0/
+   91  cd L0/
+   92  ls
+   93  git commit -m "creé un archivo de texto"
+   94  git add .
+   95  git commit -m "creé un archivo de texto"
+   96  git push
+   97  git pull
+   98  History
+   99  doskey/History
+  100  doskey /History
+  101  History
+  102  doskey /History
+  103  history
+
